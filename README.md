@@ -2,6 +2,7 @@
 Análisis y visualización de datos
 
 Integrantes: Astrid Ramirez, Victoria Rosado, Valeria Vaca
+
 Maestría de Ciencias en la Tierra - Facultad de Ingeniería en Ciencias de la Tierra - Escuela Superior Politécnica del Litoral
 
 El github contiene:
